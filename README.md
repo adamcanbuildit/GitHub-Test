@@ -1,3 +1,3 @@
 # Hello World
 
-This is a readme for my first github project.
+This is a README for my first github project.
